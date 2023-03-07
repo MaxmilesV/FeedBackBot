@@ -9,6 +9,6 @@ It was my first experience with telegram bots and aiogram.
 You can do this via consol or any aplication for SQL. I prefer DB Browser for SQLite.
 Use this command: 
 
-INSERT INTO users (user_id, is_baned, is_admin) VALUES (YOUR_ID, 0, 0)
+**INSERT INTO users (user_id, is_baned, is_admin) VALUES (YOUR_ID, 0, 0)**
 
-Change YOUR_ID to your user id nember. You can get it from @userinfobot in telegram.
+Change **YOUR_ID** to your user id nember. You can get it from @userinfobot in telegram.
