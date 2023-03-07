@@ -1,0 +1,4 @@
+Check if there is a problem of double answers.
+If the administration's responses are duplicated, then solve this problem.
+
+Implement support for administarive chat.
