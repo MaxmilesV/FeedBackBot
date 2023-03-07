@@ -11,4 +11,4 @@ Use this command:
 
 **INSERT INTO users (user_id, is_baned, is_admin) VALUES (YOUR_ID, 0, 0)**
 
-Change **YOUR_ID** to your user id nember. You can get it from @userinfobot in telegram.
+Change **YOUR_ID** to your user id nember. You can get it from **@userinfobot** in telegram.
